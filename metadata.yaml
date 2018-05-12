@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32553
     wikipedia: http://en.wikipedia.org/wiki/James_Beattie_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27221#The-Minstrel--or-the-Progress-of-Geniuswith-some-other-poems
 gutenberg_issued: '2008-11-09'
 gutenberg_type: Text
 identifiers:
